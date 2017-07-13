@@ -1,0 +1,58 @@
+#header {
+  font-size: 57px;
+  color: black;
+  font-family: fantasy;
+  border-top: 2px;
+}
+
+#title {
+  font-size: 24px;
+}
+
+.container {
+  background-color:	#F5F5F5;
+}
+
+.search-bar {
+  margin: 20px;
+  padding: 10px 30px;
+  text-align: center;
+  border-radius: 5px;
+}
+
+.search-bar input {
+  width: 75%;
+}
+
+.vedio-item img {
+  max-width: 64px;
+}
+
+.video-detail .dtails {
+  margin-top: 10px;
+  padding: 10px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+}
+
+.list-group-item {
+  cursor: pointer;
+}
+
+.list-group-item:hover {
+  background-color: #eee;
+  color: blue;
+}
+
+.button {
+  background-color: #bbb;
+  border: none;
+  color: white;
+  padding: 4px 30px;
+  text-align: center;
+  display: inline-block;
+  font-size: 17px;
+  margin: 9px 2px;
+  cursor: pointer;
+  border-radius: 5px;
+}
